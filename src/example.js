@@ -57,7 +57,7 @@ function upDateData(user_id,email,emdata){
 // updating data
 
 const updating ={
-  given_name : "jack",
+  given_name : "jackSparrow",
   family_name:"sparrow"
 }
 console.log(upDateData("583c3ac3f38e84297c002546","test@test.com",updating))
